@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash-uzu
+- 👋 Hi, I’m @Akash
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React js
 
